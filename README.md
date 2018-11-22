@@ -1,2 +1,6 @@
 # hello-world
-Just a git
+Changing code...
+
+Code changed!
+
+I hate C++, webdev forever <3
